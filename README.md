@@ -3,23 +3,23 @@ Origin at Bornhack 2020
 
 ## The Shellerman
 ### Verse[0]
-      Am            Dm
+`      Am            Dm`  
 There is a field within IT
-     Em                   Am   
+`     Em                   Am   `  
 The name of the field: security
-     Am              Dm        
+`     Am              Dm        `  
 No sense or form or ryme they own
-E                   Am   
+`E                   Am   `  
 Pwn my bully boys, pwn
 
 ### Cores
-F           C 
+`F           C `  
 Soon we'll deploy the hack
-    Dm                 Am
+`    Dm                 Am`  
 To bring us shell and root and flag
-F                C
+`F                C`  
 One day when the CTF's done
-       E                  Am  
+`       E                  Am  `  
 We'll take our points and go
 
 ### Verse[1]
